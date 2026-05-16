@@ -1,2 +1,3 @@
-# unicart-sales-analysis
-This project is a PowerBI portfolio project that documents the analysis of Unicart Retail Group sale's dataset
+# Unicart Retail Group Sales Performance Report (2020 - 2025)
+
+![Header Image](header-image.PNG)
